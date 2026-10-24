@@ -40,6 +40,9 @@ javac StudentGradeTracker.java
 java StudentGradeTracker
 ```
 
+## Application Screenshot
+![Student Grade Tracker GUI](images/studentgradetracker.png)
+
 ## Data Storage
 
 The application saves student records to a local file named `student-grades.csv`. The exact location depends on the application's configured data-file path. Keep this file if you want to preserve your saved student records when moving or backing up the project.
