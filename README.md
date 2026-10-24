@@ -41,7 +41,7 @@ java StudentGradeTracker
 ```
 
 ## Application Screenshot
-![Student Grade Tracker GUI](images/studentgradetracker.png)
+![Student Grade Tracker GUI](studentgradetracker.png)
 
 ## Data Storage
 
